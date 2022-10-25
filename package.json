@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -31,7 +31,7 @@
     "trailingComma": "es5"
   },
   "name": "write-stream-partition-file",
-  "author": "cbstorm",
+  "author": "cbstorm <cbstorm.dev@gmail.com>",
   "module": "dist/write-stream-partition-file.esm.js",
   "size-limit": [
     {
@@ -54,5 +54,14 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/cbstorm/write-stream-partition-file.git"
-  }
+  },
+  "keywords": [
+    "file",
+    "write",
+    "stream",
+    "partition",
+    "json",
+    "data",
+    "csv"
+  ]
 }
